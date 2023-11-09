@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LuEkPUUmtdYRSSW8O4NRP9XeDJeV5BoUixWuxJJ8z76bFaZWdKVo4beXd3sTtLdtrH1wnWpTwdPm8W3u+Mg5Tg==",
+  "dgSpecHash": "iDB1dKSWw7o5IQj6usK5ayJtL5TSpw7V0y9DRWWAXpOqmWxYiKkyOaxQU7wXo6M6091i2fXzRj2EK+bujG8HBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kamil\\Desktop\\MWO\\Lab 2\\Kod projektu\\MyProject.Tests\\MyProject.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kamil\\Desktop\\MWO\\Lab 3\\github\\MWO\\MyProject.Tests\\MyProject.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kamil\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
