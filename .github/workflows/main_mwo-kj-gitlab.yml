@@ -34,12 +34,6 @@ jobs:
           name: .net-app
           path: ${{env.DOTNET_ROOT}}/myapp
 
-      - name: Set application version
-        id: set_version
-        run: |
-          dotnet version increment patch
-          echo "VERSION=$(dotnet version show -s)" >> $GITHUB_ENV
-
   deploy:
     runs-on: windows-latest
     needs: build
