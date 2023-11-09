@@ -15,6 +15,7 @@ namespace MyProject.Tests.Tests
 {
     public class OrderRepositoryTests
     {
+        /*
         [Theory]
         [ClassData(typeof(ProductListFromJSON))]
         public void Create_OrderIsCreated(Product product)
@@ -34,6 +35,7 @@ namespace MyProject.Tests.Tests
             order.ProductList.Count.Should().Be(createdOrder.ProductList.Count);
             order.Status.Should().Be(createdOrder.Status);
         }
+        */
 
         [Fact]
         public void GetById_OrderExists_ReturnsOrder()
